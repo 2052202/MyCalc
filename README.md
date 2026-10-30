@@ -1,0 +1,2 @@
+# MyCalc
+A C++ Library
